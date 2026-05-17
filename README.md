@@ -83,3 +83,5 @@ Java JDK
 MySQL
 Navegador web
 IDE compatible con Java
+
+Links a explicación: https://gvaedu-my.sharepoint.com/:v:/g/personal/ismtorlop2_alu_edu_gva_es/IQAAJfh4hcGCTrDT-4O8r4FuAR314MSSaRP1mnMVJQdy-Q8
